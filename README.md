@@ -1,4 +1,5 @@
 # VIM-Config
 
-mkdir -p ~/.vim/autoload ~/.vim/bundle && \
+<pre>mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
+</pre>
